@@ -1,8 +1,12 @@
 [![Tests](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml/badge.svg)](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml)
 
-# An example of ML Application with the pretrained model and test.
+# Пример приложения ML с предварительно подготовленной моделью и тестом.
 
-An example of English text tone detection with [Hugging Face](https://huggingface.co/) library.
+Пример определения тона текста на английском языке с помощью библиотеки [Hugging Face](https://hugging face.co/).
 
+Используемые библиотеки:
+ - fastapi; 
+ - transformers; 
+ - pydantic.
 
-Tests GitHub Actions
+Работу выполнил Кудлай Дмитрий.
